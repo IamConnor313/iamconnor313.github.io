@@ -1,18 +1,16 @@
-selector { 
-    property: value;
-} 
 *{
     font-family: "Franklin Gothic Medium";
 }
 
-.first-class{
+.first-class {
     background-color: blue;
+    color: rgba(0, 255, 0, .5);
 }
 
-.second-class{
+.second-class {
     size: 20px;
 }
 
-#only-oneID{
-    background-color: red;
+#only-oneID {
+    background-color: #FF0000;
 }
